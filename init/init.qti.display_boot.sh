@@ -51,7 +51,7 @@ case "$target" in
         setprop vendor.display.enable_allow_idle_fallback 1
         setprop vendor.display.enable_perf_hint_large_comp_cycle 1
         setprop vendor.display.enable_rotator_ui 1
-        setprop vendor.display.enable_spec_fence 1
+        setprop vendor.display.enable_spec_fence 0
         setprop vendor.display.thermal.version 1
         setprop vendor.display.enable_rc_support 1
         setprop vendor.display.enable_latch_media_content 1
@@ -79,7 +79,7 @@ case "$target" in
         setprop vendor.display.enable_allow_idle_fallback 1
         setprop vendor.display.enable_perf_hint_large_comp_cycle 1
         setprop vendor.display.enable_rotator_ui 1
-        setprop vendor.display.enable_spec_fence 1
+        setprop vendor.display.enable_spec_fence 0
         setprop vendor.display.thermal.version 2
         setprop vendor.display.enable_rc_support 1
         setprop vendor.display.enable_latch_media_content 1
@@ -127,7 +127,7 @@ case "$target" in
         setprop vendor.display.enable_allow_idle_fallback 1
         setprop vendor.display.enable_perf_hint_large_comp_cycle 1
         setprop vendor.display.enable_rotator_ui 1
-        setprop vendor.display.enable_spec_fence 1
+        setprop vendor.display.enable_spec_fence 0
         setprop vendor.display.thermal.version 1
         setprop vendor.display.enable_rc_support 1
         setprop vendor.display.enable_latch_media_content 1
@@ -146,7 +146,7 @@ case "$target" in
         setprop vendor.display.enable_allow_idle_fallback 1
         setprop vendor.display.enable_perf_hint_large_comp_cycle 1
         setprop vendor.display.enable_rotator_ui 1
-        setprop vendor.display.enable_spec_fence 1
+        setprop vendor.display.enable_spec_fence 0
         setprop vendor.display.thermal.version 1
         setprop vendor.display.enable_rc_support 1
         setprop vendor.display.enable_latch_media_content 1
